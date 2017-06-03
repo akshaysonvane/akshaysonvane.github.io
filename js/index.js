@@ -191,7 +191,7 @@ function showHelp()
 function redirect()
 {
 	setTimeout(function(){
-		location.href = "http://www.akshaysonvane.cf/global/";
+		location.href = "https://akshaysonvane.github.io/global/";
 		}, 3000);
 		
 	$('.terminal').append("<p class='prompt'>Redirecting</p>");
