@@ -148,10 +148,10 @@ function showHelp()
 										"<td>akshay</td>" +
 										"<td>print ascii art.</td>" +
 									"</tr>" +
-									"<tr>" +
+									/* "<tr>" +
 										"<td>chat</td>" +
 										"<td>spawns a chatbot. type \"bye\" to stop chatting.</td>" +
-									"</tr>" +
+									"</tr>" + */
 									"<tr>" +
 										"<td>cmd</td>" +
 										"<td>Starts a new instance of the command prompt.</td>" +
