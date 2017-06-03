@@ -238,7 +238,7 @@ function showTime()
 
 function startCmd()
 {
-	var redirectWindow = window.open('http://www.akshaysonvane.cf', '_blank');
+	var redirectWindow = window.open('https://akshaysonvane.github.io/', '_blank');
     redirectWindow.location;
 	
 	newline();
