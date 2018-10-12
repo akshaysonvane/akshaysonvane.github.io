@@ -1,5 +1,4 @@
 var color = getCookie("color");
-if(color != "")
-{
-	changeColor(getCookie("color"),true);
+if (color != "") {
+    changeColor(getCookie("color"), true);
 }
