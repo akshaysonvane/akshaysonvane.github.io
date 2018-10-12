@@ -62,6 +62,9 @@ $('.landing-form').on('submit', function (e) {
         case "exit":
             redirect();
             break;
+        case "":
+            newline();
+            break;
         default:
             resetForm();
     }
